@@ -8,8 +8,17 @@ categories: jekyll update
 |---|---|---|
 |<center>எண்</center>|<center>எழுத்து</center>|<center>படம்</center>|
 |---|---|---|
-|<center>1</center>|<span class="err">கண்</span>|<center><img src="/assets/க/eyes.jpeg"></center>|
-|<center>2</center>|<span class="err">கடல்</span>|<center><img src="/assets/க/beach.jpeg"></center>|
+|<center>1</center>|<span class="err">கண்</span>|<center><img src="/assets/க/eyes.jpeg" width="200"></center>|
+|<center>2</center>|<span class="err">கடல்</span>|<center><img src="/assets/க/beach.jpeg" width="200"></center>|
+|<center>3</center>|<span class="err">கதவு</span>|<center><img src="/assets/க/kathavu.png" width="200"></center>|
+|<center>4</center>|<span class="err">கரடி</span>|<center><img src="/assets/க/karadi.png" width="200"></center>|
+|<center>5</center>|<span class="err">கப்பல்</span>|<center><img src="/assets/க/kappal.png" width="200"></center>|
+|<center>6</center>|<span class="err">கருப்பு</span>|<center><img src="/assets/க/karuppu.png" width="200"></center>|
+|<center>7</center>|<span class="err">கறும்பு</span>|<center><img src="/assets/க/karumbu.png" width="200"></center>|
+|<center>8</center>|<span class="err">கண்ணீர்</span>|<center><img src="/assets/க/kanneer.png" width="200"></center>|
+|<center>9</center>|<span class="err">கண்ணாடி</span>|<center><img src="/assets/க/kannadi.png" width="200"></center>|
+|<center>10</center>|<span class="err">கங்காரு</span>|<center><img src="/assets/க/kangaaru.png" width="200"></center>|
+|<center>11</center>|<span class="err">கடிகாரம்</span>|<center><img src="/assets/க/kadikaram.png" width="200"></center>|
+
 
 <div class="highlight" align="center">
-
