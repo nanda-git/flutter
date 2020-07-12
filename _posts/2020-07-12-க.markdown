@@ -5,6 +5,11 @@ date:   2020-07-12 23:05:30 +0530
 categories: jekyll update
 ---
 
-<div class="highlight">
-<span class="err">கொ</span>
-<img src="/assets/a.png">
+|---|---|---|
+|<center>எண்</center>|<center>எழுத்து</center>|<center>படம்</center>|
+|---|---|---|
+|<center>1</center>|<span class="err">கண்</span>|<center><img src="/assets/eyes.jpeg"></center>|
+|<center>2</center>|<span class="err">கடல்</span>|<center><img src="/assets/beach.jpeg"></center>|
+
+<div class="highlight" align="center">
+
