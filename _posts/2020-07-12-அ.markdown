@@ -1,0 +1,24 @@
+---
+layout: post
+title:  அ
+date:   2020-07-12 23:05:30 +0530
+categories: jekyll update
+---
+
+|---|---|---|
+|<center>எண்</center>|<center>எழுத்து</center>|<center>படம்</center>|
+|---|---|---|
+|<center>1</center>|<span class="err">அம்மா</span>|<center><img src="/assets/அ/amma.png" width="200"></center>|
+|<center>2</center>|<span class="err">அப்பா</span>|<center><img src="/assets/அ/appa.png" width="200"></center>|
+|<center>3</center>|<span class="err">அக்கா</span>|<center><img src="/assets/அ/akka.png" width="200"></center>|
+|<center>4</center>|<span class="err">அட்டை</span>|<center><img src="/assets/அ/attai.png" width="200"></center>|
+|<center>5</center>|<span class="err">அணில்</span>|<center><img src="/assets/அ/anil.png" width="200"></center>|
+|<center>6</center>|<span class="err">அலை</span>|<center><img src="/assets/அ/alai.png" width="200"></center>|
+|<center>7</center>|<span class="err">அரிசி</span>|<center><img src="/assets/அ/arisi.png" width="200"></center>|
+|<center>8</center>|<span class="err">அரசன்</span>|<center><img src="/assets/அ/arasan.png" width="200"></center>|
+|<center>9</center>|<span class="err">அப்பளம்</span>|<center><img src="/assets/அ/appalam.png" width="200"></center>|
+|<center>10</center>|<span class="err">அங்காடி</span>|<center><img src="/assets/அ/angadi.png" width="200"></center>|
+|<center>11</center>|<span class="err">அலுவலகம்</span>|<center><img src="/assets/அ/aluvalagam.png" width="200"></center>|
+
+<div class="highlight" align="center">
+

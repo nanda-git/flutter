@@ -8,8 +8,8 @@ categories: jekyll update
 |---|---|---|
 |<center>எண்</center>|<center>எழுத்து</center>|<center>படம்</center>|
 |---|---|---|
-|<center>1</center>|<span class="err">கண்</span>|<center><img src="/assets/eyes.jpeg"></center>|
-|<center>2</center>|<span class="err">கடல்</span>|<center><img src="/assets/beach.jpeg"></center>|
+|<center>1</center>|<span class="err">கண்</span>|<center><img src="/assets/க/eyes.jpeg"></center>|
+|<center>2</center>|<span class="err">கடல்</span>|<center><img src="/assets/க/beach.jpeg"></center>|
 
 <div class="highlight" align="center">
 
