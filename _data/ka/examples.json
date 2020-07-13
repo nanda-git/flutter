@@ -1,0 +1,12 @@
+[
+  { tail: "ண்", image: "/assets/க/eyes.jpeg" },
+  { tail: "டல்", image: "/assets/க/beach.jpeg" },
+  { tail: "தவு", image: "/assets/க/kathavu.png" },
+  { tail: "ரடி", image: "/assets/க/karadi.png" },
+  { tail: "ப்பல்", image: "/assets/க/kappal.png" },
+  { tail: "ருப்பு", image: "/assets/க/karuppu.png" },
+  { tail: "றும்பு", image: "/assets/க/karumbu.png" },
+  { tail: "ண்ணாடி", image: "/assets/க/kannadi.png" },
+  { tail: "ங்காரு", image: "/assets/க/kangaaru.png" },
+  { tail: "டிகாரம்", image: "/assets/க/kadikaram.png" }
+]
