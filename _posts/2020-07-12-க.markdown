@@ -5,6 +5,24 @@ date:   2020-07-12 23:05:30 +0530
 categories: jekyll update
 ---
 
-<div class="highlight">
-<span class="err">கொ</span>
-<img src="/assets/a.png">
+<table>
+<thead>
+<tr>
+  <td>எண்</td>
+  <td>எழுத்து</td>
+  <td class="centered">படம்</td>
+</tr>
+</thead>
+
+{% for example in site.data.ka.examples %}
+<tr>
+<td>
+<span>{{forloop.index}}</span></td>
+<td>
+
+<span><span class="first-letter">க</span>{{example.tail}}</span>
+</td>
+<td class="centered"><img src="{{example.image}}"> </td>
+</tr>
+{% endfor %}
+</table>

@@ -1,0 +1,23 @@
+---
+layout: post
+title:  கா
+date:   2020-07-12 23:05:30 +0530
+categories: jekyll update
+---
+
+|---|---|---|
+|<center>எண்</center>|<center>எழுத்து</center>|<center>படம்</center>|
+|---|---|---|
+|<center>1</center>|<span class="err">காடு</span>|<center><img src="/assets/கா/kaadu.png" width="200"></center>|
+|<center>2</center>|<span class="err">காசு</span>|<center><img src="/assets/கா/kaasu.png" width="200"></center>|
+|<center>3</center>|<span class="err">கால்</span>|<center><img src="/assets/கா/kaal.png" width="200"></center>|
+|<center>4</center>|<span class="err">காது</span>|<center><img src="/assets/கா/kaathu.png" width="200"></center>|
+|<center>5</center>|<span class="err">காளை</span>|<center><img src="/assets/கா/kaalai.png" width="200"></center>|
+|<center>6</center>|<span class="err">காயம்</span>|<center><img src="/assets/கா/kaayam.png" width="200"></center>|
+|<center>7</center>|<span class="err">காகம்</span>|<center><img src="/assets/கா/kaagam.png" width="200"></center>|
+|<center>8</center>|<span class="err">காளான்</span>|<center><img src="/assets/கா/kaalaan.png" width="200"></center>|
+|<center>9</center>|<span class="err">காலணி</span>|<center><img src="/assets/கா/kaalani.png" width="200"></center>|
+|<center>10</center>|<span class="err">காவியம்</span>|<center><img src="/assets/கா/kaaviyam.png" width="200"></center>|
+
+
+<div class="highlight" align="center">
