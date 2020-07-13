@@ -19,8 +19,9 @@ categories: jekyll update
 <td>
 <span>{{forloop.index}}</span></td>
 <td>
-<span class="first-letter">க</span>
-<span>{{example.tail}}</span></td>
+
+<span><span class="first-letter">க</span>{{example.tail}}</span>
+</td>
 <td class="centered"><img src="{{example.image}}"> </td>
 </tr>
 {% endfor %}
